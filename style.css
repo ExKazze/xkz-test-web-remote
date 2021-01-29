@@ -10,7 +10,7 @@ body{
 }
 
 .PageAtas{
-    background-color:lightskyblue ;
+    background-color:greenyellow ;
     display: flex;
     justify-content: space-between;
 }
@@ -26,7 +26,7 @@ body{
     border-radius: 5px;
     padding: 2px;
     border: 0;
-    border-bottom: 1px solid lightslategrey;
+    border-bottom: 1px solid greenyellow;
     font-weight: bold;
 }
 
@@ -53,7 +53,7 @@ body{
 }
 
 nav{
-    background-color: lightskyblue;
+    background-color: greenyellow;
     padding: 10px;
 }
 
